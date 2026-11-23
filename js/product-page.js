@@ -159,4 +159,3 @@ document.getElementById("orderNow").addEventListener("click", function () {
 
   window.location.href = "mailto:orders@examplewebsite142.com?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
 });
-Displaying contact-us.js.
