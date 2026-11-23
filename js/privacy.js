@@ -18,4 +18,3 @@ toggleLinks.forEach(function (link) {
     link.innerHTML = "View more" + hiddenText + "..";
   });
 });
-Displaying contact-us.js.
