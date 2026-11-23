@@ -19,4 +19,3 @@ const products = {
     alt: "Beige Do Good Work tee with colorful lettering filled with scenes of people working"
   }
 };
-Displaying contact-us.js.
